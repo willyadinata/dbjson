@@ -1,0 +1,40 @@
+{
+    "biolink": {
+        "users": {
+            "idUser": 1770231050,
+            "picture": "https://avatars2.githubusercontent.com/u/50712778?s=460&v=4",
+            "firstName": "Willy Adinata",
+            "lastName": "Saragih",
+            "bioUser": "If you are looking for one person who will change your life forever. Look in the mirror, and you will know.",
+            "urlList": [
+                {
+                    "idLink": 1,
+                    "linkName": "Protofolio",
+                    "url": "https://google.com"
+                },
+                {
+                    "idLink": 2,
+                    "linkName": "Pendaftaran Volunteer",
+                    "url": "https://instagram.com"
+                }
+            ],
+            "sosmedLink": [
+                {
+                    "idSosmed": 1,
+                    "sosmedName": "Github",
+                    "url": "https://github.com"
+                },
+                {
+                    "idSosmed": 2,
+                    "sosmedName": "LinkedIn",
+                    "url": "https://linkedin.com"
+                },
+                {
+                    "idSosmed": 3,
+                    "sosmedName": "Instagram",
+                    "url": "https://instagram.com"
+                }
+            ]
+        }
+    }
+}
